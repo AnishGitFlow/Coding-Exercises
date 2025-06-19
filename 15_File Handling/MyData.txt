@@ -1,0 +1,4 @@
+This is a text file.
+It is stored in a hard disk.
+Files will name.
+They are accessed using their names.
